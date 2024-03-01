@@ -74,7 +74,7 @@ const about = () => {
               A Full Stack Web Developer with a deep-rooted love for technology.
             </p>
             <div className="flex justify-center">
-              <a href="/21AG30029.pdf" download>
+              <a href="/Ram-Mohan-Patel-Resume.pdf" download>
                 <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
                   Download CV
                 </button>       
