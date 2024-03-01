@@ -10,7 +10,7 @@ import Footer from './Components/Footer.jsx'
 const App = () => {
   return (
     <div>     
-       <About />
+       <About projects={'#projects'} />
        <Technologies /> 
        <Projects />      
        <Contact /> 
