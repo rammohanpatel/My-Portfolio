@@ -26,9 +26,9 @@ const about = ({projects}) => {
               A Full Stack Web Developer with a deep-rooted love for technology.
             </p>
             <div className="flex justify-center">
-              <a href="/Ram-Mohan-Patel-Resume.pdf" download>
+              <a href="/Resume - Ram Mohan Patel.pdf" download>
                 <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-                  Download CV
+                 Download Resume
                 </button>       
               </a>
               <button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">
